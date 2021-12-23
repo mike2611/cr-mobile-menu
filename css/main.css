@@ -422,7 +422,7 @@ textarea {
   flex-direction: column;
 }
 
-#header-menu-btn {
+#header-close-menu {
   border: none;
   background: transparent;
   height: 40px;
@@ -430,7 +430,7 @@ textarea {
   align-self: flex-end;
 }
 
-#header-menu-btn i {
+#header-close-menu i {
   color: #67798e;
 }
 
@@ -455,7 +455,18 @@ textarea {
   color: #fff5e1;
 }
 
+.d-none {
+  display: none;
+}
 
+.d-flex {
+  display: flex;
+}
+
+.d-flex-center {
+  display: flex;
+  justify-content: center;
+}
 
 @media all and (min-width: 720px) {
 
