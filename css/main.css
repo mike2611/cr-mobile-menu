@@ -27,7 +27,8 @@ header {
   color: white;
 }
 
-#desktop-nav, #desktop-nav ul {
+#desktop-nav,
+#desktop-nav ul {
   display: none;
 }
 
@@ -469,7 +470,6 @@ textarea {
 }
 
 @media all and (min-width: 720px) {
-
   #mobile-nav {
     display: none;
   }
