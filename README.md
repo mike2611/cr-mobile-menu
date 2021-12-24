@@ -1,6 +1,21 @@
-# curriculum-cr-training-mobile-menu
+# Portfolio
+ 
+## Built With
 
+- HtML, CSS, JS
+- VSCode
 
-This repo host an initial code for the tasks performed during the Code Reviewers training.
+## Authors
 
-Application is based on this [Figma design](https://www.figma.com/file/t3EJUCAEViw3QasuJLPLVT/Microverse-Student-Potfolio-Templates-Main?node-id=1%3A1471).
+👤 **Miguel Angel Puentes**
+- GitHub: [@mike2611](https://github.com/mike2611)
+- Twitter: [@MiguelP2611](https://twitter.com/MiguelP2611)
+- LinkedIn: [Miguel Puentes Mata](https://linkedin.com/in/miguel-puentes-mata-90a562139/)
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
